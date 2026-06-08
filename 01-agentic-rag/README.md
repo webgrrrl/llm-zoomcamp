@@ -1,4 +1,4 @@
-# Module 1: Agentic RAG
+# Module 1: Agentic RAG (**)
 
 In this module, we learn what LLMs are and build a simple RAG
 pipeline using keyword search. Then we make it agentic, so the LLM
@@ -13,7 +13,7 @@ The first 10 lessons walk through building a working RAG pipeline
 from scratch with keyword search.
 
 1. [Introduction](lessons/01-intro.md) - What we'll build and why
-2. [Environment Setup](lessons/02-environment.md) - Docker Desktop with Python, uv, LocalAI + Qwen API
+2. (**) [Environment Setup](lessons/02-environment.md) - Docker Desktop with Python, uv, LocalAI + Qwen API
 3. [What is RAG](lessons/03-rag.md) - Why LLMs need context, the RAG architecture
 4. [The Course FAQ Dataset](lessons/04-dataset.md) - Fetching and exploring the FAQ data
 5. [Search](lessons/05-search.md) - Building a search engine with minsearch
