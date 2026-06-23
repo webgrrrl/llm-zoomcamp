@@ -104,7 +104,7 @@ services:
 
 Manually download a GUFF file of your chosen model and save it in your project folder's `models` directory. For this instance, we can download Qwen 2.5 from HuggingFace: [`Qwen/Qwen2.5-1.5B-Instruct-GGUF`](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/tree/main) 
 
-Then, create a file called `qwen-` and add the following code:
+Then, create a file called `qwen-1.5b-instruct.yaml` and add the following code:
 ```
 name: qwen-1.5b-instruct
 parameters:
