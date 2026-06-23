@@ -98,6 +98,8 @@ services:
       - .:/app # Mount your code into the container
     tty: true # Keeps the container open (like a terminal)
     stdin_open: true # Keeps the container open (like a terminal)
+    ports:
+      - "8888:8888" # Expose port 8000 for your application
 ```
 
 Manually download a GUFF file of your chosen model and save it in your project folder's `models` directory. For this instance, we can download Qwen 2.5 from HuggingFace: [`Qwen/Qwen2.5-1.5B-Instruct-GGUF`](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/tree/main) 
@@ -155,7 +157,7 @@ leaks, someone else can run up charges on your account.
 Start Jupyter:
 
 ```bash
-uv run jupyter notebook
+uv run jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
 ```
 
 Create a new notebook. Throughout the course, you'll copy code from
@@ -165,10 +167,10 @@ Check that the OpenAI client works:
 
 ```python
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv() # This returns True
 
 from openai import OpenAI
-openai_client = OpenAI()
+openai_client = OpenAI() # This returns blank
 ```
 
 If you see an error, make sure the key in your `.env` file is
