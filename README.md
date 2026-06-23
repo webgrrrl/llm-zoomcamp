@@ -17,22 +17,24 @@
 
 </div>
 
-## 🔗 Quick Links & Resources
+## Quick Links
 
 | Resource | Link |
 |-|-|
-| 📁 Course materials | [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp) |
-| 🎥 Video lectures | [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv) |
-| 📚 Documentation | [Zoomcamp Logistics](https://datatalks.club/docs/courses/zoomcamp-logistics/) · [LLM Zoomcamp](https://datatalks.club/docs/courses/llm-zoomcamp/) |
-| 📅 Cohort schedule & deadlines | [courses.datatalks.club](https://courses.datatalks.club/llm-zoomcamp-2026) |
-| 💬 Slack community | [#course-llm-zoomcamp](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) |
-| 📣 Announcements | [Telegram](https://t.me/llm_zoomcamp) |
-| 🏆 2025 cohort projects | [courses.datatalks.club/llm-zoomcamp-2025/projects](https://courses.datatalks.club/llm-zoomcamp-2025/projects) |
+| 🎬 Course launch stream | [Watch on YouTube](https://www.youtube.com/watch?v=7TuZTVwnmhk&list=PL3MmuxUbc_hJAmLLf2x1LSKRKbZwKXoHd) |
+| Course materials | [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp) |
+| Video lectures | [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv) |
+| Documentation | [Zoomcamp Logistics](https://datatalks.club/docs/courses/zoomcamp-logistics/) · [LLM Zoomcamp](https://datatalks.club/docs/courses/llm-zoomcamp/) |
+| Cohort schedule & deadlines | [courses.datatalks.club](https://courses.datatalks.club/llm-zoomcamp-2026) |
+| Slack community | [#course-llm-zoomcamp](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) |
+| Announcements | [Telegram](https://t.me/llm_zoomcamp) |
+| 2025 cohort projects | [courses.datatalks.club/llm-zoomcamp-2025/projects](https://courses.datatalks.club/llm-zoomcamp-2025/projects) |
 
+## About the Course
 
-LLM Zoomcamp teaches you how to build practical, production-ready LLM applications step by step.
+LLM Zoomcamp teaches you how to build practical, production-ready LLM applications step by step. Over 10 weeks you'll learn Retrieval-Augmented Generation, vector search, embeddings, AI agents, function calling, evaluation, monitoring, hybrid search, reranking, and more - all free, open-source, and hands-on.
 
-## 👥 Who Should Join?
+## Who Should Join
 
 This course is for people who learn by doing. After completing it, you'll have a working codebase and the hands-on experience to build your own LLM-powered applications.
 
@@ -40,8 +42,7 @@ This course is for people who learn by doing. After completing it, you'll have a
 - Data Engineers: Understand how vector search, hybrid search, and retrieval pipelines fit into production systems
 - ML Practitioners: Get a structured way to evaluate and monitor LLM-based applications
 
-
-## 🎓 Prerequisites
+## Prerequisites
 
 - Python: You can write code confidently
 - Command Line: Comfortable with terminal
@@ -53,9 +54,7 @@ This course is for people who learn by doing. After completing it, you'll have a
 > [!NOTE]
 > If you can write a Python function and have heard of ChatGPT, you have enough to get started.
 
-
-
-## 🗓️ How to Take LLM Zoomcamp
+## How to Take the Course
 
 There are two ways to follow the course: live and self-paced.
 
@@ -79,8 +78,7 @@ Self-paced steps:
 2. Ask questions and share progress in [Slack](https://datatalks.club/slack.html)
 3. Do homeworks (self-checked) and build a project for your portfolio
 
-
-## 📚 Course Syllabus
+## Syllabus
 
 Module marked with double asterisks (`**`) have been modified for Docker + LocalAI + Qwen + Pydantic AI.
 
@@ -100,9 +98,7 @@ Recommended approach:
 2. Complete the homework to reinforce the concepts
 3. Build your capstone project applying everything end-to-end
 
-
-
-## 🏆 Capstone Project
+## Capstone Project
 
 The capstone is your chance to apply everything end-to-end. You'll build a complete, working RAG application built and owned by you.
 
@@ -113,7 +109,6 @@ What you'll build:
 - An evaluation process. Measure how well your system retrieves and answers using search metrics or LLM-as-a-Judge
 - A user-facing interface. A simple UI or API (Streamlit, FastAPI, or similar) so others can try your app
 - Monitoring & feedback loops. Track queries, feedback, and performance over time
-
 
 ### Past community project ideas
 
@@ -126,9 +121,11 @@ What you'll build:
 > [!NOTE]
 > See the full [capstone project guidelines](project.md) and browse [all 2025](https://courses.datatalks.club/llm-zoomcamp-2025/projects) and [2024](https://courses.datatalks.club/llm-zoomcamp-2024/projects) cohort submissions for inspiration.
 
+## Certificate
 
-
-## 🏅 How to Get a Certificate
+<p align="center">
+<img src="images/llm-zoomcamp-certificate.jpg" alt="LLM Zoomcamp certificate of completion awarded after finishing the final project and peer reviews" title="LLM Zoomcamp Certificate of Completion" width="500" />
+</p>
 
 To earn your certificate:
 
@@ -138,49 +135,46 @@ To earn your certificate:
 
 > Certificates are issued after all peer reviews are completed. Self-paced learners are not eligible for certification but can build portfolio projects freely.
 
+See the [certificate guide](https://datatalks.club/docs/courses/zoomcamp-logistics/certification/) for how the certificate is issued and how to add it to LinkedIn.
 
-
-## 👨‍🏫 Meet the Instructors
+## Instructors
 
 - [Alexey Grigorev](https://linkedin.com/in/agrigorev/) - Founder of DataTalks.Club and creator of the Zoomcamp series. Principal data scientist.
 - [Will Russell](https://www.linkedin.com/in/wrussell1999/) - Developer Relations at Kestra.
 - [Timur Kamaliev](https://www.linkedin.com/in/timurkamaliev/) - AI engineer building production LLM systems, RAG pipelines, and agentic applications.
 
+## Testimonials
 
+> "This course gave me hands-on experience in building LLM-powered applications, including prompt engineering, retrieval-augmented generation (RAG), pipeline orchestration, and vector search optimization."
+>
+> — Alexander Daniel Rios, LLM Zoomcamp Graduate
 
-## 🚀 AI Shipping Labs
+> "Not gonna lie - this course took longer than planned. By the end, I was running on fumes, forcing myself to push through the final modules. But I made it. What I loved: hands-on experience building real AI systems (not just theory!), deep dives into RAG, vector databases, evaluation, and monitoring, and the wealth of production-ready practices that matter in enterprise environments."
+>
+> — Vasiliy Chernykh, LLM Zoomcamp Graduate
 
-If you want extra support and structure while going through the course, [AI Shipping Labs](https://aishippinglabs.com/?utm_source=github&utm_medium=referral&utm_campaign=llm_zoomcamp_2026_june&utm_content=homepage) is a paid community focused on AI engineering where you can get it. It is also a way to support the course.
+[Read more testimonials from past graduates →](https://datatalks.club/blog/llm-zoomcamp.html)
 
-But we want to assure you that everything we do at DataTalks.Club is free and will stay free. This is optional, only for people who want to get extra on top of the free content.
+## Community & Support
 
-What you get:
+### Getting Help on Slack
 
-- Regular [office hours](https://aishippinglabs.com/events/groups/llm-zoomcamp-2026-office-hours?utm_source=github&utm_medium=referral&utm_campaign=llm_zoomcamp_2026_june&utm_content=office_hours) on Zoom where you can ask questions. They are recorded if you can't make it.
-- Accountability sprints. You join a sprint, show up, and share your progress on a call. Knowing you have to report keeps you consistent. The sprint dedicated to LLM Zoomcamp starts one week after the course starts.
-- Personalized onboarding. When you enroll, you have a one-on-one with the founders to set your goals and build a plan to reach them.
-- Going through the course together with other members.
+Join the [#course-llm-zoomcamp](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) channel on [DataTalks.Club Slack](https://datatalks.club/slack.html) for discussions, troubleshooting, and networking with fellow learners and the course team.
 
-Membership:
+To keep discussions useful for everyone:
 
-- These benefits start from the middle tier. The basic tier does not include them.
-- You can pay monthly or yearly. The benefits are the same. Yearly is cheaper (you get about two months free) and is a stronger commitment.
-- There are no location-based discounts right now.
+- Follow [our posting guidelines](https://datatalks.club/docs/courses/zoomcamp-logistics/asking-questions/) when asking questions
+- Review the [community guidelines](https://datatalks.club/slack/guidelines.html)
 
-Membership is not tied only to LLM Zoomcamp. It also includes:
+### Learning in Public
 
-- Regular hands-on, member-only workshops and group coding sessions
-- Career guidance, including resume, LinkedIn, and GitHub reviews
-- Mini-courses on specialized AI topics
-- Community hackathons
-- Personal branding and developer productivity guidance
-- A closed community of practitioners for mentorship and networking
-- Exclusive content, tutorials, and breakdowns of new AI tools
+We actively encourage sharing your progress online throughout the course. Post what you're building on LinkedIn, X, or a blog. It helps you get noticed and connect with others in the field. It also earns you bonus points toward your homework and project scores.
 
-Links:
+## AI Shipping Labs
 
-- [AI Shipping Labs](https://aishippinglabs.com/?utm_source=github&utm_medium=referral&utm_campaign=llm_zoomcamp_2026_june&utm_content=homepage)
-- [Events and workshops](https://aishippinglabs.com/events?utm_source=github&utm_medium=referral&utm_campaign=llm_zoomcamp_2026_june&utm_content=events)
+If you want extra support and structure while going through the course, [AI Shipping Labs](https://aishippinglabs.com/?utm_source=github&utm_medium=referral&utm_campaign=llm_zoomcamp_2026_june&utm_content=homepage) is an optional paid community focused on AI engineering. On top of the free course it adds office hours, accountability sprints, personalized onboarding, and member-only workshops. It is also a way to support the course.
+
+Everything we do at DataTalks.Club is free and will stay free. AI Shipping Labs is only for people who want extra on top of the free content. See the [AI Shipping Labs guide](https://datatalks.club/docs/courses/llm-zoomcamp/ai-shipping-labs/) for what's included and how membership works.
 
 ## Sponsors
 
@@ -201,41 +195,9 @@ A huge thanks to our sponsors for making this course possible!
 > [!TIP]
 > Interested in supporting the DataTalks.Club community? Reach out to [alexey@datatalks.club](mailto:alexey@datatalks.club).
 
+## FAQ
 
-
-## 💬 Testimonials
-
-> "This course gave me hands-on experience in building LLM-powered applications, including prompt engineering, retrieval-augmented generation (RAG), pipeline orchestration, and vector search optimization."
->
-> — Alexander Daniel Rios, LLM Zoomcamp Graduate
-
-> "Not gonna lie - this course took longer than planned. By the end, I was running on fumes, forcing myself to push through the final modules. But I made it. What I loved: hands-on experience building real AI systems (not just theory!), deep dives into RAG, vector databases, evaluation, and monitoring, and the wealth of production-ready practices that matter in enterprise environments."
->
-> — Vasiliy Chernykh, LLM Zoomcamp Graduate
-
-[Read more testimonials from past graduates →](https://datatalks.club/blog/llm-zoomcamp.html)
-
-
-
-## 🤝 Community & Support
-
-### Join DataTalks.Club on Slack
-
-Join the [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) channel on [DataTalks.Club Slack](https://datatalks.club/slack.html) for discussions, troubleshooting, and networking with fellow learners and the course team.
-
-To keep discussions useful for everyone:
-- Follow [our posting guidelines](https://datatalks.club/docs/courses/zoomcamp-logistics/asking-questions/) when asking questions
-- Review the [community guidelines](https://datatalks.club/slack/guidelines.html)
-
-### Learning in Public
-
-We actively encourage sharing your progress online throughout the course. Post what you're building on LinkedIn, Twitter/X, or a blog. It helps you get noticed and connect with others in the field. It also earns you bonus points toward your homework and project scores.
-
-
-
-## ❓ FAQ
-
-> Full FAQ: [datatalks.club/faq/llm-zoomcamp.html](https://datatalks.club/faq/llm-zoomcamp.html)
+A few common questions. For everything else, see the full [LLM Zoomcamp FAQ](https://datatalks.club/faq/llm-zoomcamp.html).
 
 Q: Is this course really free?<br/>
 A: Yes. All videos, materials, and homework are free. You may spend $1-5 in OpenAI API credits if you run the code yourself.
@@ -244,29 +206,12 @@ Q: Do I need a GPU?<br/>
 A: No. All exercises are designed to run on a standard laptop using cloud APIs.
 
 Q: What does "live cohort" mean? Are there live classes?<br/>
-A: No mandatory live classes. "Live" means homework deadlines, automatic scoring, a leaderboard, peer review, and certificate eligibility are all enabled. All lectures are pre-recorded.
+A: No mandatory live classes. All lectures are pre-recorded. "Live" means deadlines, scored homework, a leaderboard, peer review, and certificate eligibility.
 
-Q: Can I join after the cohort has started?<br/>
-A: Yes. You can join after the start date, but deadlines remain fixed. Some homework forms may already be closed.
+Q: Can I take it self-paced, and will I get a certificate?<br/>
+A: Yes, you can start anytime. Certificates require completing the final project and peer reviews during a live cohort.
 
-Q: Can I join mid-cohort or self-paced?<br/>
-A: Yes. All materials stay available after each cohort ends. Self-paced learners are always welcome, though certificates require a live cohort.
-
-Q: Will I get a certificate?<br/>
-A: Yes. Complete the final project and peer review 3 students' projects during the live cohort to earn your certificate. Self-paced mode does not include certification.
-
-Q: Do I need to complete every homework to get a certificate?<br/>
-A: No. You only need to complete the final project and peer reviews to get it.
-
-Q: What if I get stuck?<br/>
-A: Discuss your problem in [`#course-llm-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C06TEGTGM3J) on Slack. The community and instructors are active there. Also check the [FAQ page](https://datatalks.club/faq/llm-zoomcamp.html) for detailed answers.
-
-Q: How much time should I expect to spend?<br/>
-A: Expect roughly 5-10 hours per week, depending on your background and how deep you go into the materials.
-
-
-
-## 🤝 Contributing
+## Contributing
 
 Found a bug in the course materials? Know how to improve an explanation or fix broken code? Contributions are welcome and appreciated.
 
@@ -276,15 +221,13 @@ Found a bug in the course materials? Know how to improve an explanation or fix b
 
 Every contribution helps future learners. Thank you 🙏
 
-
-
-## 🌐 About DataTalks.Club
+## About DataTalks.Club
 
 <p align="center">
   <img width="40%" src="https://github.com/user-attachments/assets/1243a44a-84c8-458d-9439-aaf6f3a32d89" alt="DataTalks.Club - Global Community of Data Enthusiasts" />
 </p>
 
-[DataTalks.Club](https://datatalks.club/) is a global online community of data enthusiasts — a place to learn, share knowledge, ask questions, and support each other through free courses, events, and an active Slack community.
+[DataTalks.Club](https://datatalks.club/) is a global online community of data enthusiasts - a place to learn, share knowledge, ask questions, and support each other through free courses, events, and an active Slack community.
 
 <p align="center">
   <a href="https://datatalks.club/">Website</a> •
@@ -295,8 +238,8 @@ Every contribution helps future learners. Thank you 🙏
   <a href="https://www.youtube.com/@DataTalksClub/featured">YouTube</a> •
   <a href="https://github.com/DataTalksClub">GitHub</a> •
   <a href="https://www.linkedin.com/company/datatalks-club/">LinkedIn</a> •
-  <a href="https://twitter.com/DataTalksClub">Twitter</a>
+  <a href="https://x.com/DataTalksClub">X</a>
 </p>
 
 > [!NOTE]
-> Most activity happens on [Slack](https://datatalks.club/slack.html). Join us there for updates, discussions, and community events. Learn more at [DataTalksClub Community Navigation](https://www.notion.so/DataTalksClub-Community-Navigation-bf070ad27ba44bf6bbc9222082f0e5a8).
+> Most activity happens on [Slack](https://datatalks.club/slack.html). Join us there for updates, discussions, and community events. Learn more at [DataTalks.Club docs](https://datatalks.club/docs/general/).
