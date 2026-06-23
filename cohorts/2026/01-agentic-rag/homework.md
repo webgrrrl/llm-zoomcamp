@@ -156,6 +156,10 @@ You will need to modify the code for the rag helper to expose the usage.
 
 In the RAG Helper class, `llm` returns only the text. Modify it to return the whole response, and change `rag` to return both the answer and usage (as a tuple or create a small dataclass for that).
 
+Note: for this question and the next ones, if your answer doesn't match exactly,
+just select the closest option - especially if you use a different model or a
+different LLM provider.
+
 
 ## Q4. Chunking
 
@@ -271,6 +275,8 @@ Don't worry about being perfect. Everyone starts somewhere, and people love foll
 
 ### Example post for LinkedIn
 
+Tag [@Alexey Grigorev](https://www.linkedin.com/in/agrigorev/) and [@DataTalksClub](https://www.linkedin.com/company/datatalks-club/) in your post - we'll like and comment to give your post more reach.
+
 ```
 🚀 Module 1 of LLM Zoomcamp by @DataTalksClub complete!
 
@@ -283,7 +289,7 @@ Just finished Module 1 - Agentic RAG. Learned how to:
 
 Here's my homework solution: <LINK>
 
-Following along with this amazing free course - who else is learning to build with LLMs?
+Following along with this amazing free course by @Alexey Grigorev - who else is learning to build with LLMs?
 
 You can sign up here: https://github.com/DataTalksClub/llm-zoomcamp/
 ```
@@ -300,10 +306,10 @@ You can sign up here: https://github.com/DataTalksClub/llm-zoomcamp/
 
 My solution: <LINK>
 
-Free course by @DataTalksClub: https://github.com/DataTalksClub/llm-zoomcamp/
+Free course by @Al_Grigor & @DataTalksClub: https://github.com/DataTalksClub/llm-zoomcamp/
 ```
 
 ## Submit the results
 
-* Submit your results here: https://courses.datatalks.club/llm-zoomcamp-2026/hw1
+* Submit your results here: https://courses.datatalks.club/llm-zoomcamp-2026/homework/hw1
 * It's possible your answers won't match exactly. If so, select the closest one.
