@@ -22,12 +22,25 @@ can't send the question straight to an LLM and call it a day.
 First, let's define a function to talk to the LLM:
 
 ```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client_openai = OpenAI(
+    base_url = os.getenv("OPENAI_API_BASE"),
+    api_key = os.getenv("OPENAI_API_KEY")
+)
+
 def llm(prompt):
-    response = openai_client.responses.create(
-        model="gpt-5.4-mini",
-        input=prompt
+    response = client_openai.chat.completions.create(
+        model = "qwen-1.5b-instruct",
+        messages = [
+            {"role": "user", "content": prompt}
+        ]
     )
-    return response.output_text
+    return response.choices[0].message.content
 ```
 
 This is our black box - text goes in, text comes out.
@@ -35,7 +48,8 @@ This is our black box - text goes in, text comes out.
 Let's test it:
 
 ```python
-llm("Hey, what's up?")
+answer = llm("Hey, what's up?")
+print(answer)
 ```
 
 It replies with something. The LLM works.
