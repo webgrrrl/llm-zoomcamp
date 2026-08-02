@@ -80,7 +80,9 @@ Self-paced steps:
 
 ## Syllabus
 
-### [Module 1: Agentic RAG](01-agentic-rag/)
+Module marked with double asterisks (`**`) have been modified for Docker + LocalAI + Qwen + Pydantic AI.
+
+### (**) [Module 1: Agentic RAG](01-agentic-rag/)
 
 - Build a RAG pipeline with keyword search
 - Make it agentic with function calling
