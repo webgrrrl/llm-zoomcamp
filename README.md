@@ -80,17 +80,49 @@ Self-paced steps:
 
 ## Syllabus
 
-Module marked with double asterisks (`**`) have been modified for Docker + LocalAI + Qwen + Pydantic AI.
+### [Module 1: Agentic RAG](01-agentic-rag/)
 
-- (**) [1. Agentic RAG](01-agentic-rag/). Build a RAG pipeline with keyword search, then make it agentic with function calling
-- [2. Vector Search](02-vector-search/). Semantic search with embeddings, minsearch, sqlitesearch, and PGVector
-- [3. Orchestration](03-orchestration/). AI orchestration with Kestra
-- [Workshop - Data Ingestion](cohorts/2026/workshops/dlt.md). Pull traces from a monitoring service for analytics with dlt
-- [4. Evaluation](04-evaluation/). Measure retrieval and answer quality with offline and online eval
-- [5. Monitoring](05-monitoring/). Monitor user feedback and system health with live dashboards
-- [6. Best Practices](06-best-practices/). LangChain, hybrid search. Combine vector + keyword search; rerank results for higher precision
-- [7. End-to-End Project](07-project-example/). A complete project example: a fitness assistant built with LLMs
-- [Capstone Project](project.md). Ship a complete end-to-end project of your choice from scratch
+- Build a RAG pipeline with keyword search
+- Make it agentic with function calling
+
+### [Module 2: Vector Search](02-vector-search/)
+
+- Semantic search with embeddings
+- minsearch, sqlitesearch, and PGVector
+
+### [Module 3: Orchestration](03-orchestration/)
+
+- AI orchestration with Kestra
+
+### [Workshop: Data Ingestion](cohorts/2026/workshops/dlt.md)
+
+- Build dlt pipelines to ingest and analyze LLM traces
+- Filesystem and REST API sources, DuckDB, and marimo dashboards
+
+
+### [Module 4: Evaluation](04-evaluation/)
+
+- Measure retrieval and answer quality
+- Offline and online evaluation
+
+### [Module 5: Monitoring](05-monitoring/)
+
+- Monitor user feedback and system health
+- Live dashboards
+
+### [Module 6: Best Practices](06-best-practices/)
+
+- LangChain
+- Hybrid search: combine vector and keyword search
+- Rerank results for higher precision
+
+### [Module 7: End-to-End Project](07-project-example/)
+
+- A complete project example: a fitness assistant built with LLMs
+
+### [Capstone Project](project.md)
+
+- Ship a complete end-to-end project of your choice from scratch
 
 Recommended approach:
 
