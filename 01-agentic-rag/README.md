@@ -12,16 +12,16 @@ Code: [code/](code/)
 The first 10 lessons walk through building a working RAG pipeline
 from scratch with keyword search.
 
-1. [Introduction](lessons/01-intro.md) - What we'll build and why
-2. (**) [Environment Setup](lessons/02-environment.md) - Docker Desktop with Python, uv, LocalAI + Qwen API
-3. [What is RAG](lessons/03-rag.md) - Why LLMs need context, the RAG architecture
-4. [The Course FAQ Dataset](lessons/04-dataset.md) - Fetching and exploring the FAQ data
-5. [Search](lessons/05-search.md) - Building a search engine with minsearch
-6. [Building a Prompt](lessons/06-building-prompt.md) - Combining search results into a prompt
-7. [RAG Pipeline](lessons/07-llm.md) - Wiring search + prompt + LLM together
-8. [RAG Helper](lessons/08-rag-helper.md) - Reusable RAGBase class and data loading
-9. [Data Ingestion](lessons/09-data-ingestion.md) - Persistent search with sqlitesearch
-10. [Wrap-up of Part 1](lessons/10-rag-next-steps.md) - Where to go from here
+1. [Introduction](01-intro.md) - What we'll build and why
+2. (**) [Environment Setup](02-environment.md) - Docker Desktop with Python, uv, LocalAI + Qwen API
+3. [What is RAG](03-rag.md) - Why LLMs need context, the RAG architecture
+4. [The Course FAQ Dataset](04-dataset.md) - Fetching and exploring the FAQ data
+5. [Search](05-search.md) - Building a search engine with minsearch
+6. [Building a Prompt](06-building-prompt.md) - Combining search results into a prompt
+7. [RAG Pipeline](07-llm.md) - Wiring search + prompt + LLM together
+8. [RAG Helper](08-rag-helper.md) - Reusable RAGBase class and data loading
+9. [Data Ingestion](09-data-ingestion.md) - Persistent search with sqlitesearch
+10. [Wrap-up of Part 1](10-rag-next-steps.md) - Where to go from here
 
 
 ## Part 2: Agents
