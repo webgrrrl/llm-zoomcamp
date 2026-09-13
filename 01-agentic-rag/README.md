@@ -29,17 +29,12 @@ from scratch with keyword search.
 Part 2 puts the LLM in charge of the search decisions, turning the
 fixed pipeline into an agent.
 
-11. [Agents](lessons/11-agents-intro.md) - Why a fixed RAG pipeline isn't enough
-12. [Quick RAG Revision (Optional)](lessons/12-rag-revision.md) - Setting up RAG (also a standalone workshop entry point)
-13. [Function Calling](lessons/13-function-calling.md) - Giving the LLM tools it can use
-14. [The Agentic Loop](lessons/14-agentic-loop.md) - Repeating until the model stops calling tools
-15. [ToyAIKit](lessons/15-frameworks.md) - A teaching framework for the agent loop
-16. [Other Frameworks](lessons/16-other-frameworks.md) - Production frameworks worth exploring
-
-
-## Homework
-
-- [Homework](../cohorts/2026/01-agentic-rag/homework.md)
+11. [Agents](11-agents-intro.md) - Why a fixed RAG pipeline isn't enough
+12. [Quick RAG Revision (Optional)](12-rag-revision.md) - Setting up RAG (also a standalone workshop entry point)
+13. [Function Calling](13-function-calling.md) - Giving the LLM tools it can use
+14. [The Agentic Loop](14-agentic-loop.md) - Repeating until the model stops calling tools
+15. [ToyAIKit](15-frameworks.md) - A teaching framework for the agent loop
+16. [Other Frameworks](16-other-frameworks.md) - Production frameworks worth exploring
 
 
 ## Optional
@@ -61,8 +56,8 @@ per-lesson videos above. To watch the full uncut recordings:
 ## Old content
 
 Earlier cohorts taught this module differently. See the archived
-materials for the [2024](../cohorts/2024/) and
-[2025](../cohorts/2025/) cohorts.
+materials for the [2024](../../2024/) and
+[2025](../../2025/) cohorts.
 
 
 ## Notes
