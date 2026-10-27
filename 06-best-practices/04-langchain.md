@@ -1,3 +1,7 @@
+---
+prev_url: 03-reranking.md
+next_url: 05-next-steps.md
+---
 # Hybrid Search with LangChain
 
 So far we've been working with Elasticsearch directly. LangChain

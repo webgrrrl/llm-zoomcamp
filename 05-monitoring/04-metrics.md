@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=JGh6-DqaueA&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 03-chat-app.md
+next_url: 05-database.md
 ---
 # Capturing Metrics
 

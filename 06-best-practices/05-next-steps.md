@@ -1,3 +1,7 @@
+---
+prev_url: 04-langchain.md
+next_url: ../07-project-example/01-intro.md
+---
 # Next Steps
 
 In this module, we covered hybrid search and document reranking,

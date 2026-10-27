@@ -1,3 +1,6 @@
+---
+prev_url: 06-summary.md
+---
 # Chunking for Longer Texts
 
 [Watch the lesson video](https://www.youtube.com/watch?v=tyBRP_WewXA&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R)

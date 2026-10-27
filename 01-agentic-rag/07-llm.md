@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=KHePGkeFn54&list=PL3MmuxUbc_hLZFNgSa
 code:
   - label: "notebook.ipynb"
     path: "code/notebook.ipynb"
+prev_url: 06-building-prompt.md
+next_url: 08-rag-helper.md
 ---
 # The LLM
 

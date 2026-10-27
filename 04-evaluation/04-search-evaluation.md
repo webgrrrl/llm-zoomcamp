@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=KoyYkv8P_jU&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 03-ground-truth-batch.md
+next_url: 05-search-metrics.md
 ---
 # Search Evaluation
 

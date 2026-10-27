@@ -1,3 +1,7 @@
+---
+prev_url: 04-interface.md
+next_url: 06-summary.md
+---
 # Monitoring and Containerization
 
 [Watch the lesson video](https://www.youtube.com/watch?v=nQda9etJWW8&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R)

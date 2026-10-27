@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=gH8fB-6Emmo&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 11-agents-intro.md
+next_url: 13-function-calling.md
 ---
 # Quick RAG Revision (Optional)
 

@@ -1,3 +1,7 @@
+---
+prev_url: ../06-best-practices/05-next-steps.md
+next_url: 02-evaluating-retrieval.md
+---
 # End-to-End Project Example
 
 [Watch the lesson video](https://www.youtube.com/watch?v=E9O0Tg68PPg&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R)

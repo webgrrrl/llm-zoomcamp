@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=BMqa4OsCk58&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 08-pgvector.md
+next_url: 10-next-steps.md
 ---
 # Using ONNX Runtime instead of PyTorch
 

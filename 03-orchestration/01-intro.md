@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=xUAkcgNIcRI&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: ../02-vector-search/10-next-steps.md
+next_url: 02-context-engineering.md
 ---
 # AI Orchestration
 

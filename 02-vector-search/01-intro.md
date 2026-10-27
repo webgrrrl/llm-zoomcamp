@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=qyZgxTmC2cY&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: ../01-agentic-rag/16-other-frameworks.md
+next_url: 02-embeddings.md
 ---
 # Vector Search
 

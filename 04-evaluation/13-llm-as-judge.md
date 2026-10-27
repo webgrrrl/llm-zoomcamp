@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=BEXVULgalDM&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 12-rag-answers.md
+next_url: 14-agent-evaluation.md
 ---
 # LLM as a Judge
 

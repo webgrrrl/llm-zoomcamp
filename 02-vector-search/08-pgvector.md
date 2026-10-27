@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=0P54MFyz-mc&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 07-sqlitesearch-vector.md
+next_url: 09-onnx-embedder.md
 ---
 # Vector Search with PGVector
 

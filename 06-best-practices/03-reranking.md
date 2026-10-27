@@ -1,3 +1,7 @@
+---
+prev_url: 02-hybrid-search.md
+next_url: 04-langchain.md
+---
 # Document Reranking
 
 When we retrieve documents, they're ranked by cosine similarity.

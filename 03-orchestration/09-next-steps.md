@@ -1,3 +1,7 @@
+---
+prev_url: 08-best-practices.md
+next_url: ../04-evaluation/01-intro.md
+---
 # Next Steps
 
 In this module, we covered:

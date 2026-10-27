@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=Mx6EqvzVDz0&list=PL3MmuxUbc_hLZFNgSa
 code:
   - label: "notebook.ipynb"
     path: "code/notebook.ipynb"
+prev_url: 03-rag.md
+next_url: 05-search.md
 ---
 # The Course FAQ Dataset
 

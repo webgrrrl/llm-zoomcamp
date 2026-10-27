@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=6uG4_Ivv60E&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 10-rag-next-steps.md
+next_url: 12-rag-revision.md
 ---
 # Agents
 

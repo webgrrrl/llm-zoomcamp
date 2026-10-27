@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=eM6xmdZDT6k&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 02-ground-truth.md
+next_url: 04-search-evaluation.md
 ---
 # Generating Ground Truth for All Documents
 

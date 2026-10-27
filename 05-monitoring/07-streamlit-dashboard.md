@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=OrWlgDKZclI&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 06-querying.md
+next_url: 08-user-feedback.md
 ---
 # Streamlit Dashboard
 

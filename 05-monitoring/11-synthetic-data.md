@@ -1,3 +1,7 @@
+---
+prev_url: 10-feedback-dashboard.md
+next_url: 12-grafana.md
+---
 # Synthetic Data Generation
 
 _This lesson has no video._

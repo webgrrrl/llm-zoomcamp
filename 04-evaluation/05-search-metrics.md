@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=TuirMy3Pdbk&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 04-search-evaluation.md
+next_url: 06-search-tuning.md
 ---
 # Search Evaluation Metrics
 

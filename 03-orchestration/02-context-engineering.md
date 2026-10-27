@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=xUAkcgNIcRI&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 01-intro.md
+next_url: 03-setup.md
 ---
 # Context Engineering
 

@@ -1,3 +1,7 @@
+---
+prev_url: ../05-monitoring/14-next-steps.md
+next_url: 02-hybrid-search.md
+---
 # Best Practices for RAG
 
 In the previous modules we built search engines, agents, evaluation

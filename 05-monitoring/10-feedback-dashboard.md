@@ -1,3 +1,7 @@
+---
+prev_url: 09-built-in-judge.md
+next_url: 11-synthetic-data.md
+---
 # Feedback Dashboard
 
 _This lesson has no video._

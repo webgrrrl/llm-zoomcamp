@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=7tvpR8EE0gs&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 05-rag.md
+next_url: 07-multi-agent.md
 ---
 # AI Agents
 

@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=18vEtjPJwLc&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 05-database.md
+next_url: 07-streamlit-dashboard.md
 ---
 # Querying Data
 

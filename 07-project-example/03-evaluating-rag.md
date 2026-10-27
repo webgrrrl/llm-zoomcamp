@@ -1,3 +1,7 @@
+---
+prev_url: 02-evaluating-retrieval.md
+next_url: 04-interface.md
+---
 # Evaluating RAG
 
 [Watch the lesson video](https://www.youtube.com/watch?v=lxpW2mR7dGk&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R)

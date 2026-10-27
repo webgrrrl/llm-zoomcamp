@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=E7KdO3xmESg&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 04-vector-search.md
+next_url: 06-rag-vector.md
 ---
 # Vector Search with minsearch
 

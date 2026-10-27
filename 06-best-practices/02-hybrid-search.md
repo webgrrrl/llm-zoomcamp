@@ -1,3 +1,7 @@
+---
+prev_url: 01-intro.md
+next_url: 03-reranking.md
+---
 # Hybrid Search
 
 Vector search finds documents by semantic meaning, while keyword search

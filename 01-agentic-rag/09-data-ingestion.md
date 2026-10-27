@@ -5,6 +5,8 @@ code:
     path: "code/persistent_rag_ingest.ipynb"
   - label: "persinsent_rag.ipynb"
     path: "code/persinsent_rag.ipynb"
+prev_url: 08-rag-helper.md
+next_url: 10-rag-next-steps.md
 ---
 # Data Ingestion
 

@@ -1,3 +1,7 @@
+---
+prev_url: 07-multi-agent.md
+next_url: 09-next-steps.md
+---
 # Best Practices
 
 ## When to Use What

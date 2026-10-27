@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=csxKescwJYM&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 06-rag-vector.md
+next_url: 08-pgvector.md
 ---
 # Vector Search with sqlitesearch
 

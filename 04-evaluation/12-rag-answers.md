@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=utkcclfpj0g&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 11-evaluation-intro.md
+next_url: 13-llm-as-judge.md
 ---
 # Generating RAG Answers
 

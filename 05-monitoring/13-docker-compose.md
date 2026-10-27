@@ -1,3 +1,7 @@
+---
+prev_url: 12-grafana.md
+next_url: 14-next-steps.md
+---
 # Docker Compose
 
 _This lesson has no video._

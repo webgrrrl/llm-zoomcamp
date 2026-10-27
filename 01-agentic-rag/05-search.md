@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=GYgpNKiuCJU&list=PL3MmuxUbc_hLZFNgSa
 code:
   - label: "notebook.ipynb"
     path: "code/notebook.ipynb"
+prev_url: 04-dataset.md
+next_url: 06-building-prompt.md
 ---
 # Search
 

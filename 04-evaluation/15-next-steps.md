@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=TlKPBjItUw8&list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv"
+prev_url: 14-agent-evaluation.md
+next_url: ../05-monitoring/01-intro.md
 ---
 # Next Steps
 

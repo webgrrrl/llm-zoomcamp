@@ -1,3 +1,7 @@
+---
+prev_url: 01-intro.md
+next_url: 03-evaluating-rag.md
+---
 # Evaluating Retrieval
 
 [Watch the lesson video](https://www.youtube.com/watch?v=6ulnHtJPCWY&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R)
